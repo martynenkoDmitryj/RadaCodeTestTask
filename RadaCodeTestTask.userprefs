@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{43EBBFFC-187D-495B-A055-928AB8B656B3}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RadaCodeTestTask.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9BCC1B4E-CF7A-4822-837A-54B8BA67A814" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

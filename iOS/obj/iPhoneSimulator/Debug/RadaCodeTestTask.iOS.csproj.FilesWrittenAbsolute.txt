@@ -1,0 +1,11 @@
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/admin/Projects/RadaCodeTestTask/iOS/bin/iPhoneSimulator/Debug/RadaCodeTestTask.iOS.exe.mdb
+/Users/admin/Projects/RadaCodeTestTask/iOS/bin/iPhoneSimulator/Debug/RadaCodeTestTask.iOS.exe
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/RadaCodeTestTask.iOS.exe
+/Users/admin/Projects/RadaCodeTestTask/iOS/obj/iPhoneSimulator/Debug/RadaCodeTestTask.iOS.exe.mdb
+/Users/admin/Projects/RadaCodeTestTask/iOS/bin/iPhoneSimulator/Debug/RadaCodeTestTask.dll
+/Users/admin/Projects/RadaCodeTestTask/iOS/bin/iPhoneSimulator/Debug/RadaCodeTestTask.dll.mdb
